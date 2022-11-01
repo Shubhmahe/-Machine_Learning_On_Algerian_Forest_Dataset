@@ -1,4 +1,4 @@
-# MACHINE-LEARNING--PRACTICALS
+ML Logistic Regression Practical Implementation on Algerian Forest Fire Prediction Dataset.
 ML Logistic Regression Practical Implementation on Algerian Forest Fire Prediction Dataset.
 
 Topics Covered :-
