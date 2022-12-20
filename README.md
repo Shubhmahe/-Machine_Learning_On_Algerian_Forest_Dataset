@@ -1,5 +1,5 @@
 ML Logistic Regression Practical Implementation on Algerian Forest Fire Prediction Dataset.
-ML Logistic Regression Practical Implementation on Algerian Forest Fire Prediction Dataset.
+The aim being the integration of the decision tree classifier as a part of the smart sensor node architecture that allows fire prediction in automated and intelligent way without requiring human intervention.
 
 Topics Covered :-
 
